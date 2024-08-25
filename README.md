@@ -1,7 +1,11 @@
 ## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter)](https://hits.seeyoufarm.com)               
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-
+<img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/react-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/nextdotjs-black?style=flat-square&logo=nextdotjs"/>
 <!--
 **Ralto13/Ralto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
