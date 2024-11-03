@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralto13&hide_progress=true&theme=dark)
 
 <!--
 # 💪 Skills
