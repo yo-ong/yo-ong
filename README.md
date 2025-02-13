@@ -8,7 +8,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralto13&hide_progress=true&theme=dark)
 
 ### Stacks
-<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="JavaScript logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="TypeScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="React logo" /><img src="https://img.shields.io/badge/-white?logo=next.js&logoColor=000000&logoOnly=true" alt="Next.js logo" />
+**Lv1** 🐣
+
+<img src="https://img.shields.io/badge/-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=figma&logoColor=F24E1E&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=redux&logoColor=764ABC&logoOnly=true" alt="redux logo" />
+
+**Lv2** 🐥
+
+<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="typeScript logo" /><img src="https://img.shields.io/badge/-black?logo=next.js&logoColor=FFFFFF&logoOnly=true" alt="next.js logo" />
+
+
+**Lv3** 🐔
+
+<img src="https://img.shields.io/badge/-black?logo=linux&logoColor=FCC624&logoOnly=true" alt="Linux" /><img src="https://img.shields.io/badge/-black?logo=gnometerminal&logoColor=ffffff&logoOnly=true" alt="terminal" />
+
+**old** 🍗
+
+<img src="https://img.shields.io/badge/-black?logo=burpsuite&logoColor=FF6633&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" /><img src="https://img.shields.io/badge/-black?logo=php&logoColor=777BB4&logoOnly=true" alt="php" />
+
 <!--
 **Ralto13/Ralto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
