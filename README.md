@@ -10,7 +10,7 @@
 ### Stacks
 **Lv1** 🐣
 
-<img src="https://img.shields.io/badge/-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=figma&logoColor=F24E1E&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=redux&logoColor=764ABC&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=docker&logoColor=#2496ED&logoOnly=true" alt="redux logo" />
+<img src="https://img.shields.io/badge/-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=figma&logoColor=F24E1E&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=redux&logoColor=764ABC&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=docker&logoColor=#2496ED&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=postman&logoColor=FF6C37&logoOnly=true" alt="redux logo" />
 
 **Lv2** 🐥
 
@@ -23,7 +23,7 @@
 
 **old** 🍗
 
-<img src="https://img.shields.io/badge/-black?logo=burpsuite&logoColor=FF6633&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" /><img src="https://img.shields.io/badge/-black?logo=php&logoColor=777BB4&logoOnly=true" alt="php" />
+<img src="https://img.shields.io/badge/-black?logo=burpsuite&logoColor=FF6633&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" /><img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" /><img src="https://img.shields.io/badge/-black?logo=php&logoColor=777BB4&logoOnly=true" alt="php" /><img src="https://img.shields.io/badge/-black?logo=laravel&logoColor=FF2D20&logoOnly=true" alt="php" /><img src="https://img.shields.io/badge/-black?logo=apachetomcat&logoColor=F8DC75&logoOnly=true" alt="php" />
 
 <!--
 **Ralto13/Ralto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
