@@ -5,13 +5,10 @@
 </a>
 </div>
 
-
-
-### Skills
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralto13&hide_progress=true&theme=dark)
 
-<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="JavaScript logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="TypeScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="React logo" /><img src="https://img.shields.io/badge/-black?logo=next.js&logoColor=000000&logoOnly=true" alt="Next.js logo" />
+### Stacks
+<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="JavaScript logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="TypeScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="React logo" /><img src="https://img.shields.io/badge/-white?logo=next.js&logoColor=000000&logoOnly=true" alt="Next.js logo" />
 <!--
 **Ralto13/Ralto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
