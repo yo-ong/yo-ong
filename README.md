@@ -10,16 +10,16 @@
 ### Stacks
 **Lv1** 🐣
 
-<img src="https://img.shields.io/badge/-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=figma&logoColor=F24E1E&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=redux&logoColor=764ABC&logoOnly=true" alt="redux logo" />
+<img src="https://img.shields.io/badge/-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=figma&logoColor=F24E1E&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=redux&logoColor=764ABC&logoOnly=true" alt="redux logo" /><img src="https://img.shields.io/badge/-black?logo=docker&logoColor=#2496ED&logoOnly=true" alt="redux logo" />
 
 **Lv2** 🐥
 
-<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="typeScript logo" /><img src="https://img.shields.io/badge/-black?logo=next.js&logoColor=FFFFFF&logoOnly=true" alt="next.js logo" />
+<img src="https://img.shields.io/badge/-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" /><img src="https://img.shields.io/badge/-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" /><img src="https://img.shields.io/badge/-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="typeScript logo" /><img src="https://img.shields.io/badge/-black?logo=next.js&logoColor=FFFFFF&logoOnly=true" alt="next.js logo" /><img src="https://img.shields.io/badge/-black?logo=github&logoColor=FFFFFF&logoOnly=true" alt="next.js logo" />
 
 
 **Lv3** 🐔
 
-<img src="https://img.shields.io/badge/-black?logo=linux&logoColor=FCC624&logoOnly=true" alt="Linux" /><img src="https://img.shields.io/badge/-black?logo=gnometerminal&logoColor=ffffff&logoOnly=true" alt="terminal" />
+<img src="https://img.shields.io/badge/-black?logo=linux&logoColor=FCC624&logoOnly=true" alt="Linux" /><img src="https://img.shields.io/badge/-black?logo=educative&logoColor=ffffff&logoOnly=true" alt="terminal" />
 
 **old** 🍗
 
