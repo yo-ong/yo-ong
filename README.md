@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/tailwind-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" />
 <img src="https://img.shields.io/badge/figma-black?logo=figma&logoColor=F24E1E&logoOnly=true" />
   <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=764ABC&logoOnly=true"/>
-  <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" alt="redux logo" />
-  <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=FF6C37&logoOnly=true" alt="redux logo" />
-  <img src="https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=#85EA2D&logoOnly=true" alt="redux logo" />
-  <img src="https://img.shields.io/badge/nodejs-black?logo=node.js&logoColor=#5FA04E&logoOnly=true" alt="redux logo" />
+  <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" />
+  <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=FF6C37&logoOnly=true" />
+  <img src="https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=#85EA2D&logoOnly=true" />
+  <img src="https://img.shields.io/badge/nodejs-black?logo=node.js&logoColor=#5FA04E&logoOnly=true" />
 </p>
 
 **learning** 🏃‍➡️
