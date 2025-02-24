@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=764ABC&logoOnly=true"/>
   <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" />
   <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=FF6C37&logoOnly=true" />
+  <img src="https://img.shields.io/badge/vercel-black?logo=vercel&logoColor=ffffff&logoOnly=true" />
 <!--   <img src="https://img.shields.io/badge/nodejs-black?logo=node.js&logoColor=#5FA04E&logoOnly=true" /> -->
 </p>
 
@@ -39,12 +40,13 @@
 <!-- <img src="https://img.shields.io/badge/-black?logo=apachetomcat&logoColor=F8DC75&logoOnly=true" />   -->
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-black?logo=educative&logoColor=ffffff&logoOnly=true" alt="terminal" />  
+  <img src="https://img.shields.io/badge/-black?logo=privateinternetaccess&logoColor=1E811F" alt="c" /> 
+<!--   <img src="https://img.shields.io/badge/-black?logo=zsh&logoColor=F15A24&logoOnly=true" alt="terminal" />   -->
   <img src="https://img.shields.io/badge/-black?logo=burpsuite&logoColor=FF6633&logoOnly=true" alt="c" />
   <img src="https://img.shields.io/badge/-black?logo=owasp&logoColor=FFFFFF" alt="c" />
   <img src="https://img.shields.io/badge/-black?logo=metasploit&logoColor=2596CD&logoOnly=true" />
   <img src="https://img.shields.io/badge/-black?logo=kalilinux&logoColor=3776AB&logoOnly=true" />
-  <!-- <img src="https://img.shields.io/badge/-black?logo=privateinternetaccess&logoColor=1E811F" alt="c" />  -->
+  
 
 </p>
 <p>
