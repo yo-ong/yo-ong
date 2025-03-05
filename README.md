@@ -29,7 +29,7 @@
 
 ***
 
-**old** 👻
+👻
 <p>
   <img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" />
 <img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" />
