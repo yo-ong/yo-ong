@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="right">
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter&title=🥸&count_bg=%23FFFFFF&title_bg=%23000000" width="20"/>
-</a>
+<!-- <a href="https://hits.seeyoufarm.com"> -->
+<!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter&title=🥸&count_bg=%23FFFFFF&title_bg=%23000000" width="20"/> -->
+<!-- </a> -->
 </div>
 
 ***
