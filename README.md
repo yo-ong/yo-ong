@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" />
   <img src="https://img.shields.io/badge/react query-black?logo=reactquery&logoColor=#FF4154&logoOnly=true"/>
   <img src="https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=FFFFFF&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=FF4785&logoOnly=true"/>
 <!--   <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=#FF4785&logoOnly=true"/> -->
 </p>
 
