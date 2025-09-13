@@ -6,27 +6,38 @@
 </div>
 
 ***
+**front end** 🏃‍➡️
+<!-- language -->
+<p>
+<img src="https://img.shields.io/badge/javascript-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" />
+  <img src="https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="typeScript logo" />
+</p>
+
+<!-- fe core -->
+<p>
+  <img src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" />
+  <img src="https://img.shields.io/badge/react query-black?logo=reactquery&logoColor=#FF4154&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=FFFFFF&logoOnly=true"/>
+</p>
+
+<!-- state, style management -->
+<p>
+  <img src="https://img.shields.io/badge/jotai-black?logo=ghostery&logoColor=FFFFFF&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=764ABC&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/tailwind-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" />
+  <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=FF4785&logoOnly=true"/>  
+</p>
+
 **used** 🔎
 <p>
-<img src="https://img.shields.io/badge/tailwind-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" />
 <img src="https://img.shields.io/badge/figma-black?logo=figma&logoColor=F24E1E&logoOnly=true" />
-  <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=764ABC&logoOnly=true"/>
   <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" />
   <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=FF6C37&logoOnly=true" />
   <img src="https://img.shields.io/badge/vercel-black?logo=vercel&logoColor=ffffff&logoOnly=true" />
 <!--   <img src="https://img.shields.io/badge/nodejs-black?logo=node.js&logoColor=#5FA04E&logoOnly=true" /> -->
 </p>
 
-**learning** 🏃‍➡️
-<p>
-<img src="https://img.shields.io/badge/javascript-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" />
-  <img src="https://img.shields.io/badge/typescript-black?logo=typescript&logoColor=3178C6&logoOnly=true" alt="typeScript logo" />
-  <img src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" />
-  <img src="https://img.shields.io/badge/react query-black?logo=reactquery&logoColor=#FF4154&logoOnly=true"/>
-  <img src="https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=FFFFFF&logoOnly=true"/>
-  <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=FF4785&logoOnly=true"/>
-<!--   <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=#FF4785&logoOnly=true"/> -->
-</p>
+
 
 ***
 
