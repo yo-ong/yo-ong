@@ -43,13 +43,15 @@ Below are some of my experiences :)
 
 ***
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-ong&hide_progress=true&theme=dark)
 
-<br/>
-👻👻👻👻👻<br/>
-<br/>
 
-**security & server**
-<!-- hacking & scanning -->
+
+
+<detail>
+  <!-- hacking & scanning -->
+  <summary><b>security & server</b></summary>
+<div markdown="1">
 <p>
   <img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" />
 <img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" />
@@ -77,11 +79,10 @@ Below are some of my experiences :)
   <img src="https://img.shields.io/badge/-black?logo=raspberrypi&logoColor=A22846&logoOnly=true" />
   <img src="https://img.shields.io/badge/-black?logo=snort&logoColor=#F6A7AA&logoOnly=true" />
 </p>
+</div>
+</detail>
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-ong&hide_progress=true&theme=dark)
 
 <!--
 **Ralto13/Ralto13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
