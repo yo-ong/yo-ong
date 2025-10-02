@@ -48,7 +48,7 @@ Below are some of my experiences :)
 
 
 
-<detail>
+<details>
   <!-- hacking & scanning -->
   <summary><b>security & server</b></summary>
 <div markdown="1">
@@ -80,7 +80,7 @@ Below are some of my experiences :)
   <img src="https://img.shields.io/badge/-black?logo=snort&logoColor=#F6A7AA&logoOnly=true" />
 </p>
 </div>
-</detail>
+</details>
 
 
 
