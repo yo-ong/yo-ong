@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm yo-ong and frontend engineer,
+
+Below are some of my experiences :)
 <div align="right">
 <!-- <a href="https://hits.seeyoufarm.com"> -->
 <!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter&title=🥸&count_bg=%23FFFFFF&title_bg=%23000000" width="20"/> -->
@@ -6,7 +9,7 @@
 </div>
 
 ***
-**front end** 🏃‍➡️
+**frontend**
 <!-- language -->
 <p>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" />
@@ -28,20 +31,25 @@
   <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=FF4785&logoOnly=true"/>  
 </p>
 
-**used** 🔎
+**used**
 <p>
 <img src="https://img.shields.io/badge/figma-black?logo=figma&logoColor=F24E1E&logoOnly=true" />
-  <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" />
+  <img src="https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=85EA2D&logoOnly=true" />
   <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=FF6C37&logoOnly=true" />
   <img src="https://img.shields.io/badge/vercel-black?logo=vercel&logoColor=ffffff&logoOnly=true" />
+  <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=#2496ED&logoOnly=true" />
 <!--   <img src="https://img.shields.io/badge/nodejs-black?logo=node.js&logoColor=#5FA04E&logoOnly=true" /> -->
 </p>
 
-
-
 ***
 
-👻
+
+<br/>
+👻👻👻👻👻<br/>
+<br/>
+
+**security & server**
+<!-- hacking & scanning -->
 <p>
   <img src="https://img.shields.io/badge/-black?logo=c&logoColor=A8B9CC&logoOnly=true" alt="c" />
 <img src="https://img.shields.io/badge/-black?logo=python&logoColor=3776AB&logoOnly=true" alt="python" />
