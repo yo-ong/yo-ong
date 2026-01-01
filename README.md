@@ -43,11 +43,6 @@ Below are some of my experiences :)
 
 ***
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-ong&hide_progress=true&theme=dark)
-
-
-
-
 <details>
   <!-- hacking & scanning -->
   <summary><b>security & server</b></summary>
