@@ -1,15 +1,14 @@
 ### Hi there 👋
 I'm yo-ong and frontend engineer,
 
-Below are some of my experiences :)
+thank you :)
 <div align="right">
 <!-- <a href="https://hits.seeyoufarm.com"> -->
 <!--   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRalto13%2Fhit-counter&title=🥸&count_bg=%23FFFFFF&title_bg=%23000000" width="20"/> -->
 <!-- </a> -->
 </div>
 
-***
-**frontend**
+## Frontend Skills
 <!-- language -->
 <p>
 <img src="https://img.shields.io/badge/javascript-black?logo=javascript&logoColor=F7DF1E&logoOnly=true" alt="javaScript logo" />
