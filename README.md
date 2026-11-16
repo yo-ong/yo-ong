@@ -16,23 +16,23 @@
 <!-- fe core -->
 <p>
   <img src="https://img.shields.io/badge/react-black?logo=react&logoColor=61DAFB&logoOnly=true" alt="react logo" />
-  <img src="https://img.shields.io/badge/react query-black?logo=reactquery&logoColor=#FF4154&logoOnly=true"/>
-  <img src="https://img.shields.io/badge/nextjs-black?logo=next.js&logoColor=FFFFFF&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/next-black?logo=next.js&logoColor=FFFFFF&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/webpack-black?logo=webpack&logoColor=8DD6F9&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/vite-black?logo=vite&logoColor=9135FF&logoOnly=true"/>
 </p>
 
-<!-- state, util -->
+<!-- bundler,state,util -->
 <p>
+  <img src="https://img.shields.io/badge/react query-black?logo=reactquery&logoColor=FF4154&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/zustand-black?logo=dicebear&logoColor=403B35&logoOnly=true"/>
   <img src="https://img.shields.io/badge/jotai-black?logo=ghostery&logoColor=FFFFFF&logoOnly=true"/>
-  <img src="https://img.shields.io/badge/-redux-black?logo=redux&logoColor=764ABC&logoOnly=true"/>
-    <img src="https://img.shields.io/badge/axios-black?logo=axios&logoColor=5A29E4&logoOnly=true"/>
+  <img src="https://img.shields.io/badge/axios-black?logo=axios&logoColor=5A29E4&logoOnly=true"/>
 </p>
-
-<!-- style -->
 <p>
   <img src="https://img.shields.io/badge/tailwind-black?logo=tailwindcss&logoColor=06B6D4&logoOnly=true" />
+  <img src="https://img.shields.io/badge/radix ui-black?logo=radixui&logoColor=FFFFFF&logoOnly=true" />
+  <img src="https://img.shields.io/badge/framer-black?logo=framer&logoColor=0055FF&logoOnly=true" />
   <img src="https://img.shields.io/badge/storybook-black?logo=storybook&logoColor=FF4785&logoOnly=true"/>
-    <img src="https://img.shields.io/badge/gsap-black?logo=gsap&logoColor=0ae448&logoOnly=true"/>
-
 </p>
 
 **used**
